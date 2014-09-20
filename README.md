@@ -17,16 +17,16 @@ Pos Interest:First year:8%   Second year:6%    And then 5%
 
 Distribution
 There are 5 Millon coin for Pathfinder. 
- 90%£¨4.5 Millon£© of the coins to IPO
- 10%£¨500,000£© is used to bounties
- No giveaways.
+ 90%Â£Â¨4.5 MillonÂ£Â© of the coins to IPO
+ 10%Â£Â¨500,000Â£Â© is used to bounties
+ No giveaways..
 
 Project
 From no on:Btc or pathfinder coins to support community activities
 30th September:Wallet increase trading function
 7th Octoberr:Android wallet
 15th October:Pathfinder T-shirts
-1st November£ºCreate outdoor shopping mall
+1st NovemberÂ£ÂºCreate outdoor shopping mall
 
 IPO
 Minimum amount:0.02 btc 
